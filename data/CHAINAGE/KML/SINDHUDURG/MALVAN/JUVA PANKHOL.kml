@@ -22,7 +22,7 @@
   </Style>
   <Style id="point2">
     <IconStyle><Icon><href>kml_symbol_no symbol_0.png</href></Icon></IconStyle>
-    <LabelStyle><color>ff264c00</color></LabelStyle>
+    <LabelStyle><color>ffff00ff</color></LabelStyle>
   </Style>
   <Style id="point3">
     <IconStyle><Icon><href>kml_symbol_no symbol_0.png</href></Icon></IconStyle>
@@ -84,10 +84,6 @@
     <IconStyle><Icon><href>kml_symbol_no symbol_0.png</href></Icon></IconStyle>
     <LabelStyle><color>ffff00ff</color></LabelStyle>
   </Style>
-  <Style id="point18">
-    <IconStyle><Icon><href>kml_symbol_no symbol_0.png</href></Icon></IconStyle>
-    <LabelStyle><color>ffff00ff</color></LabelStyle>
-  </Style>
   <Folder>
     <name>Point Features</name>
     <description>Point Features</description>
@@ -102,19 +98,9 @@
       </Point>
     </Placemark>
     <Placemark>
-      <description>DITRICT NAME</description>
-      <name>RATNAGIRI</name>
-      <styleUrl>#point2</styleUrl>
-      <Point>
-        <altitudeMode>clampToGround</altitudeMode>
-        <extrude>0</extrude>
-        <coordinates>73.401183148,17.454480177,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <description>CSMark</description>
       <name>CH660700.00 M</name>
-      <styleUrl>#point3</styleUrl>
+      <styleUrl>#point2</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -124,7 +110,7 @@
     <Placemark>
       <description>CSMark</description>
       <name>CH660800.00 M</name>
-      <styleUrl>#point4</styleUrl>
+      <styleUrl>#point3</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -134,7 +120,7 @@
     <Placemark>
       <description>CSMark</description>
       <name>CH660900.00 M</name>
-      <styleUrl>#point5</styleUrl>
+      <styleUrl>#point4</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -144,7 +130,7 @@
     <Placemark>
       <description>CSMark</description>
       <name>CH661000.00 M</name>
-      <styleUrl>#point6</styleUrl>
+      <styleUrl>#point5</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -154,7 +140,7 @@
     <Placemark>
       <description>CSMark</description>
       <name>CH661100.00 M</name>
-      <styleUrl>#point7</styleUrl>
+      <styleUrl>#point6</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -164,7 +150,7 @@
     <Placemark>
       <description>CSMark</description>
       <name>CH661200.00 M</name>
-      <styleUrl>#point8</styleUrl>
+      <styleUrl>#point7</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -174,7 +160,7 @@
     <Placemark>
       <description>CSMark</description>
       <name>CH661300.00 M</name>
-      <styleUrl>#point9</styleUrl>
+      <styleUrl>#point8</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -184,7 +170,7 @@
     <Placemark>
       <description>CSMark</description>
       <name>CH661400.00 M</name>
-      <styleUrl>#point10</styleUrl>
+      <styleUrl>#point9</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -194,7 +180,7 @@
     <Placemark>
       <description>CSMark</description>
       <name>CH661500.00 M</name>
-      <styleUrl>#point11</styleUrl>
+      <styleUrl>#point10</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -204,7 +190,7 @@
     <Placemark>
       <description>CSMark</description>
       <name>CH661600.00 M</name>
-      <styleUrl>#point12</styleUrl>
+      <styleUrl>#point11</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -214,7 +200,7 @@
     <Placemark>
       <description>CSMark</description>
       <name>CH661700.00 M</name>
-      <styleUrl>#point13</styleUrl>
+      <styleUrl>#point12</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -224,7 +210,7 @@
     <Placemark>
       <description>CSMark</description>
       <name>CH661800.00 M</name>
-      <styleUrl>#point14</styleUrl>
+      <styleUrl>#point13</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -234,7 +220,7 @@
     <Placemark>
       <description>CSMark</description>
       <name>CH661900.00 M</name>
-      <styleUrl>#point15</styleUrl>
+      <styleUrl>#point14</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -244,7 +230,7 @@
     <Placemark>
       <description>CSMark</description>
       <name>CH662000.00 M</name>
-      <styleUrl>#point16</styleUrl>
+      <styleUrl>#point15</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -254,7 +240,7 @@
     <Placemark>
       <description>CSMark</description>
       <name>CH662100.00 M</name>
-      <styleUrl>#point17</styleUrl>
+      <styleUrl>#point16</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
@@ -264,7 +250,7 @@
     <Placemark>
       <description>CSMark</description>
       <name>CH662200.00 M</name>
-      <styleUrl>#point18</styleUrl>
+      <styleUrl>#point17</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <extrude>0</extrude>
